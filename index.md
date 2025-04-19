@@ -2,9 +2,6 @@
 
 ---
 ### Learn About My Projects
-#### [Data Engineering: Loan And Credit Card ETL Project](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-This project showcases my skills and knowledge in managing an ETL process for Loan Application and Credit Card datasets. Using Python, Apache Spark, SQL, and various Python libraries, I demonstrated my ability to handle data extraction, transformation, loading, and visualization.
-
----
-#### [Demo](https://upperboat.github.io)
+#### [Flight Latency Analysis & Prediction Project](https://www.linkedin.com/pulse/flight-latency-analysis-prediction-project-kevin-yen-ijilf)
+[<img src="./images/project_image.png?raw=true"/>](https://www.linkedin.com/pulse/flight-latency-analysis-prediction-project-kevin-yen-ijilf)
+This project showcases my skills and knowledge in creating dashboard and predictions utilizing flight latency datasets. Using Python and various Python libraries, I demonstrated my ability to handle data extraction, transformation, loading, and visualization.
