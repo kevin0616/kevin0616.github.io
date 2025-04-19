@@ -1,19 +1,20 @@
-title: "Upperboat"
+title: "Kevin Yen"
 logo: "/images/headshot.jpg?raw=true"
 description: >
-  Welcome to Upperboat — a place where creativity meets insight. 
+  Welcome to Upperboat — a place where creativity meets insight.
+  Hi, I am Kevin! Currently a master student in computer science.
   <br><br>
-  I'm passionate about data, strategy, and innovation.
+  I'm passionate about data science and software engineering.
   <br><br>
-  <a href="https://www.linkedin.com/in/larrychencpa/" target="_blank">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/kevinyen616" target="_blank">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
 
 show_downloads: false
 google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
 author:
-  name: "Larry Chen"
-  email: "larry.chen@upperboat.com"
+  name: "Kevin Yen"
+  email: "kyen4444@gmail.com"
 
 # Build settings
 markdown: kramdown
