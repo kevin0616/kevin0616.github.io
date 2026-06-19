@@ -3,7 +3,7 @@
 ---
 ### Learn About My Projects
 
-####[Mall3 - Trading Platform DApp](https://drive.google.com/file/d/10tfMMIO0YhmHBSU-txpEG-HrgtBuLVo5/view?usp=sharing)
+#### [Mall3 - Trading Platform DApp](https://drive.google.com/file/d/10tfMMIO0YhmHBSU-txpEG-HrgtBuLVo5/view?usp=sharing)
 This online shopping DApp, Mall3, transforms a Web2 online store into a decentralized shopping experience. Users
 can freely buy or sell items and pay using their crypto wallets.
 
