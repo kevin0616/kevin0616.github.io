@@ -3,6 +3,10 @@
 ---
 ### Learn About My Projects
 
+####[Mall3 - Trading Platform DApp](https://drive.google.com/file/d/10tfMMIO0YhmHBSU-txpEG-HrgtBuLVo5/view?usp=sharing)
+This online shopping DApp, Mall3, transforms a Web2 online store into a decentralized shopping experience. Users
+can freely buy or sell items and pay using their crypto wallets.
+
 #### [MintMyNFT - NFT Minting DApp](https://www.linkedin.com/pulse/nft-minting-dapp-kevin-yen-dtbuf/?trackingId=KOjWg4JjR22P6PI%2BrqcZJA%3D%3D)
 [<img src="./images/NFTMint.png?raw=true"/>](https://www.linkedin.com/pulse/nft-minting-dapp-kevin-yen-dtbuf/?trackingId=KOjWg4JjR22P6PI%2BrqcZJA%3D%3D)
 This is a web application that allows users to easily create and mint NFTs by uploading images. Created using React and Next.js interacting with smart contracts written in Solidity.
